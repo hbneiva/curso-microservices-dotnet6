@@ -1,0 +1,295 @@
+﻿++Solution 'GeekShooping' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:GeekShooping.sln
+++Services
+i:{00000000-0000-0000-0000-000000000000}:Services
+++GeekShooping.ProductAPI
+i:{3f76279d-3a78-43b9-97dc-cccd6e0a4269}:GeekShooping.ProductAPI
+++Connected Services 
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:>410
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:>411
+++Dependencies
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:>414
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:>415
+++Properties
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\properties\
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\properties\
+++Controllers
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\controllers\
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\controllers\
+++Model
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\model\
+++Base
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\model\base\
+++BaseEntity.cs
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\model\base\baseentity.cs
+++Context
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\model\context\
+++MySQLContext.cs
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\model\context\mysqlcontext.cs
+++appsettings.json
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\appsettings.json
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\appsettings.json
+++Program.cs
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\program.cs
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\program.cs
+++WeatherForecast.cs
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\weatherforecast.cs
+++No service dependencies discovered
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:>412
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:>413
+++Analyzers
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:analyzers
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:analyzers
+++Frameworks
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:frameworks
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:frameworks
+++Packages
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:packages
+++launchSettings.json
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\properties\launchsettings.json
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\properties\launchsettings.json
+++WeatherForecastController.cs
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\controllers\weatherforecastcontroller.cs
+++appsettings.Development.json
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\appsettings.development.json
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\users\higor\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\microsoft.aspnetcore.app
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\microsoft.netcore.app
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\microsoft.netcore.app
+++AutoMapper (10.1.1)
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:>438
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:>435
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.0)
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:>439
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:>440
+++Pomelo.EntityFrameworkCore.MySql (6.0.0)
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:>441
+++Swashbuckle.AspNetCore (6.2.3)
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:>436
+++Swashbuckle.AspNetCore.Annotations (6.2.3)
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:>437
+++Swashbuckle.AspNetCore.SwaggerUI (6.2.3)
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:>442
+++FrontEnd
+i:{00000000-0000-0000-0000-000000000000}:FrontEnd
+++GeekShooping.Web
+i:{5b78528f-9ba1-46ad-ab6b-444eaf631857}:GeekShooping.Web
+++wwwroot
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\
+++Models
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\models\
+++Views
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\views\
+++css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\css\
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\js\
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\
+++favicon.ico
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\favicon.ico
+++HomeController.cs
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\controllers\homecontroller.cs
+++ErrorViewModel.cs
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\models\errorviewmodel.cs
+++Home
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\views\home\
+++Shared
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\views\shared\
+++_ViewImports.cshtml
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\views\_viewstart.cshtml
+++site.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\css\site.css
+++site.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\js\site.js
+++bootstrap
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\
+++jquery
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery\
+++jquery-validation
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\views\home\index.cshtml
+++Privacy.cshtml
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\views\shared\error.cshtml
+++dist
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery\dist\
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery\license.txt
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\views\shared\_layout.cshtml.css
+++jquery.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{0ed6e20e-54cf-4207-b69e-a85540eade89}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Product.cs
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\model\product.cs
+++Migrations
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\migrations\
+++20211202210244_AddProductDataTableOnDB.cs
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\migrations\20211202210244_addproductdatatableondb.cs
+++MySQLContextModelSnapshot.cs
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\migrations\mysqlcontextmodelsnapshot.cs
+++20211202210244_AddProductDataTableOnDB.Designer.cs
+i:{75f0a050-6d0d-473c-b5eb-e143bace8c97}:c:\projetos\curso-microservices-dotnet6\geekshooping\geekshooping.productapi\migrations\20211202210244_addproductdatatableondb.designer.cs
